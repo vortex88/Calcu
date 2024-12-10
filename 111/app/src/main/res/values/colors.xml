@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="explanatory_color">#111C38</color>
+    <color name="explanatory_color_text">#CEB67B</color>
+    <color name="return_color_button_text">#F5493A16</color>
+    <color name="return_color_button">#D63A3629</color>
+    <color name="exit_color">#1A243E</color>
+    <color name="exit_color_text">#8A7B54</color>
+
+</resources>

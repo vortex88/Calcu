@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Predictions</string>
+    <string name="get_prediction">Получить предсказание</string>
+    <string name="get_return">Получить</string>
+    <string name="button_exit">Выход</string>
+    <string name="texst_return">Вы можете вернутся и получить новое предсказание</string>
+
+
+</resources>
